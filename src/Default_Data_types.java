@@ -1,6 +1,5 @@
 public class Default_Data_types {
          static int a;
-        //static decimal b
          static long c;
         static short d;
         static byte e;
